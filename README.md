@@ -1,2 +1,2 @@
 # Belajar-Kotlin
-Saya baru belajar kotlin
+Pemula Kotlin, Ajarin dong Puh, Sepuh
