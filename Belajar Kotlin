@@ -1,5 +1,5 @@
 fun main () {
+  var x = 10
 
-  println("Hello World")
-
+  print(x)
 }
