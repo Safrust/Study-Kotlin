@@ -1,5 +1,5 @@
-fun main (ags: Array<String>) {
-
-  println("Hello World")
-
+fun main () {
+  var x = 10
+  
+  println(x)
 }
