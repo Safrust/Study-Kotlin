@@ -1,4 +1,4 @@
-fun main (ags: Stirng<Array>) {
+fun main (ags: Array<String>) {
 
   println("Hello World")
 
